@@ -1,0 +1,65 @@
+{
+    "DbStyleBus": {
+        "cuentas": [
+            {
+              "nombreDeUsuario":"giselle90",
+              "contraseña":"123456",
+              "DNI":"35348863",
+              "nombre":"Giselle",
+              "apellido":"isola",
+              "direccion":"maipu 217, pablo nogues,bs as",
+              "fechaNac":"",
+              "metodoDePago":"tarjeta",
+              "nroPagoAsociado":"4455444554455",
+              "telefono":"1134418984"
+            } 
+        ],
+        "carrito": [
+            {
+                "precio": ""        
+            }
+        ],
+         "omnibuses": [
+            {
+                "nombre": "ungs"        
+            },
+            {
+                "nombre": "casa de mel" 
+            },
+           {
+                "nombre": "casa de gus"        
+            },
+           {
+                "nombre": "casa de fran"        
+            }
+        ],
+        "terminales": [
+            {
+                "nombre": "ungs"        
+            },
+            {
+                "nombre": "casa de mel" 
+            },
+           {
+                "nombre": "casa de gus"        
+            },
+           {
+                "nombre": "casa de fran"        
+            }
+        ],
+      "excursiones": [
+            {
+                "nombre": "joda en ungs"        
+            },
+            {
+                "nombre": "joda en casa de mel" 
+            },
+           {
+                "nombre": "joda en casa de gus"        
+            },
+           {
+                "nombre": "joda encasa de fran"        
+            }
+        ]
+    }
+}
